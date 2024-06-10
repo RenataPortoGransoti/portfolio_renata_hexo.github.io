@@ -102,3 +102,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  repo: https://github.com/RenataPortoGransoti/portfolio_renata_hexo.github.io
+  branch: gh-pages
+  message: deploy
+
